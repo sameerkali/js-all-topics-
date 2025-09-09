@@ -20,7 +20,6 @@ interface Concept {
 }
 
 const concepts: Concept[] = [
-  // Core Language Fundamentals
   {
     id: "1",
     name: "Primitive Types",
